@@ -12,3 +12,11 @@ Java lesson on Casting to class.
    - Used when converting a larger data type to a smaller one
    - may result in data loss.
    - Must explicitly specify the target type using parentheses.
+  ```java
+  double num = 10.99;
+  int data = (int) num; // double is manually converted to int, decimal part is lost
+  ```
+
+
+
+
