@@ -18,9 +18,9 @@ Java lesson on Casting to class.
   ```
   ## Reference Type Casting (Objects)
    ##Upcasting
-     - Upcasting is casting a subclass object to a superclass type.
-     - usually done implicitly(automatic)
-     -  safe because the subclass is always an instance of the super class
+   - Upcasting is casting a subclass object to a superclass type.
+   - usually done implicitly(automatic)
+   - safe because the subclass is always an instance of the super class
     ```java
     
     class Dinosaur {}
