@@ -1,4 +1,4 @@
-# Reg-Rhys_Treyvon_Casting
+# Java Casting Teaching
 Java lesson on Casting to class.
 
 ##Primitive Type Casting
