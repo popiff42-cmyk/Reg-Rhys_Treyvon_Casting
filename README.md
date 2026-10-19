@@ -8,4 +8,7 @@ Java lesson on Casting to class.
   int num = 10;
   double data = num; // int is automatically converted to double
   ```
-    
+  ## Narrowing Casting(Manual)
+   - Used when converting a larger data type to a smaller one
+   - may result in data loss.
+   - Must explicitly specify the target type using parentheses.
