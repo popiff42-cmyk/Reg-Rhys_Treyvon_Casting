@@ -27,9 +27,9 @@ Java lesson on Casting to class.
     Dinosaur myDino = new Stegosaurus(); // implicit upcasting
   ```
   ##Downcasting
-    - converts a superclass reference back to a subclass type.
-    - must be done explicitly
-    - can throw a classCastException if the object is not a instance of the subclass
+  - converts a superclass reference back to a subclass type.
+  - must be done explicitly
+  - can throw a classCastException if the object is not a instance of the subclass
   ```java
     Animal myAnimal = new Dog();
     Dog myDog = (Dog) myAnimal; // explicit downcasting
