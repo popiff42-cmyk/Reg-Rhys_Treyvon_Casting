@@ -16,7 +16,7 @@ Java lesson on Casting to class.
   double num = 10.99;
   int data = (int) num; // double is manually converted to int, decimal part is lost
   ```
-##Reference Type Casting (Objects)
+  ## Reference Type Casting (Objects)
    ##Upcasting
      - Upcasting is casting a subclass object to a superclass type.
      - usually done implicitly(automatic)
