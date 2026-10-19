@@ -2,7 +2,7 @@
 Java lesson on Casting to class.
 
 ##Primitive Type Casting
-  ## Widening Casting
+  ## Widening Casting(automatic
    - occurs when a smaller data type is converted into a larger data type automatically by      the compiler
   ```java
   int num = 10;
