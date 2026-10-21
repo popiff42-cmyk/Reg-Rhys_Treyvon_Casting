@@ -17,7 +17,7 @@ Java lesson on Casting to class.
   int data = (int) num; // double is manually converted to int, decimal part is lost
   ```
   ## Reference Type Casting (Objects)
-   ##Upcasting
+   ## Upcasting
    - Upcasting is casting a subclass object to a superclass type
    - usually done implicitly(automatic)
    - safe because the subclass is always an instance of the super class
@@ -26,7 +26,7 @@ Java lesson on Casting to class.
     class Stegosaurus extends Dinosaur {}
     Dinosaur myDino = new Stegosaurus(); // implicit upcasting
   ```
-  ##Downcasting
+  ## Downcasting
   - converts a superclass reference back to a subclass type.
   - must be done explicitly
   - can throw a classCastException if the object is not a instance of the subclass
